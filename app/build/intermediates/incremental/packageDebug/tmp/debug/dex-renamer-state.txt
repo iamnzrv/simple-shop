@@ -1,0 +1,4 @@
+#Sun Dec 01 17:56:02 MSK 2019
+base.0=/home/iamnzrv/Projects/AndroidStudioProjects/CoderSwag/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
